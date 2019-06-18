@@ -1,0 +1,7 @@
+C:\Users\peter.bozov\source\repos\loopsHomeWork\deckOfCards\bin\Debug\deckOfCards.exe.config
+C:\Users\peter.bozov\source\repos\loopsHomeWork\deckOfCards\bin\Debug\deckOfCards.exe
+C:\Users\peter.bozov\source\repos\loopsHomeWork\deckOfCards\bin\Debug\deckOfCards.pdb
+C:\Users\peter.bozov\source\repos\loopsHomeWork\deckOfCards\obj\Debug\03.deckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\loopsHomeWork\deckOfCards\obj\Debug\deckOfCards.exe
+C:\Users\peter.bozov\source\repos\loopsHomeWork\deckOfCards\obj\Debug\deckOfCards.pdb
+C:\Users\peter.bozov\source\repos\loopsHomeWork\deckOfCards\obj\Debug\03.deckOfCards.csprojAssemblyReference.cache

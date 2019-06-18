@@ -1,0 +1,7 @@
+C:\Users\peter.bozov\source\repos\loopsHomeWork\minMaxSumAvg\bin\Debug\minMaxSumAvg.exe.config
+C:\Users\peter.bozov\source\repos\loopsHomeWork\minMaxSumAvg\bin\Debug\minMaxSumAvg.exe
+C:\Users\peter.bozov\source\repos\loopsHomeWork\minMaxSumAvg\bin\Debug\minMaxSumAvg.pdb
+C:\Users\peter.bozov\source\repos\loopsHomeWork\minMaxSumAvg\obj\Debug\02.minMaxSumAvg.csprojAssemblyReference.cache
+C:\Users\peter.bozov\source\repos\loopsHomeWork\minMaxSumAvg\obj\Debug\02.minMaxSumAvg.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\loopsHomeWork\minMaxSumAvg\obj\Debug\minMaxSumAvg.exe
+C:\Users\peter.bozov\source\repos\loopsHomeWork\minMaxSumAvg\obj\Debug\minMaxSumAvg.pdb

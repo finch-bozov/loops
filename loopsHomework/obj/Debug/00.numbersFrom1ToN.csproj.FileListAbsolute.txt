@@ -1,0 +1,7 @@
+C:\Users\peter.bozov\source\repos\loopsHomeWork\loopsHomework\bin\Debug\loopsHomework.exe.config
+C:\Users\peter.bozov\source\repos\loopsHomeWork\loopsHomework\bin\Debug\loopsHomework.exe
+C:\Users\peter.bozov\source\repos\loopsHomeWork\loopsHomework\bin\Debug\loopsHomework.pdb
+C:\Users\peter.bozov\source\repos\loopsHomeWork\loopsHomework\obj\Debug\00.numbersFrom1ToN.csprojAssemblyReference.cache
+C:\Users\peter.bozov\source\repos\loopsHomeWork\loopsHomework\obj\Debug\00.numbersFrom1ToN.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\loopsHomeWork\loopsHomework\obj\Debug\loopsHomework.exe
+C:\Users\peter.bozov\source\repos\loopsHomeWork\loopsHomework\obj\Debug\loopsHomework.pdb

@@ -1,0 +1,6 @@
+C:\Users\peter.bozov\source\repos\loopsHomeWork\numDivisibleByThreeAndSeven\bin\Debug\numDivisibleByThreeAndSeven.exe.config
+C:\Users\peter.bozov\source\repos\loopsHomeWork\numDivisibleByThreeAndSeven\bin\Debug\numDivisibleByThreeAndSeven.exe
+C:\Users\peter.bozov\source\repos\loopsHomeWork\numDivisibleByThreeAndSeven\bin\Debug\numDivisibleByThreeAndSeven.pdb
+C:\Users\peter.bozov\source\repos\loopsHomeWork\numDivisibleByThreeAndSeven\obj\Debug\01.NotDivisibleByThreeAndSeven.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\loopsHomeWork\numDivisibleByThreeAndSeven\obj\Debug\numDivisibleByThreeAndSeven.exe
+C:\Users\peter.bozov\source\repos\loopsHomeWork\numDivisibleByThreeAndSeven\obj\Debug\numDivisibleByThreeAndSeven.pdb
