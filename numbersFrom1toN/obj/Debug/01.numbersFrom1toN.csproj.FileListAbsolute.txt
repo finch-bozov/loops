@@ -1,0 +1,6 @@
+C:\Users\Finch\source\repos\Loops\numbersFrom1toN\bin\Debug\numbersFrom1toN.exe.config
+C:\Users\Finch\source\repos\Loops\numbersFrom1toN\bin\Debug\numbersFrom1toN.exe
+C:\Users\Finch\source\repos\Loops\numbersFrom1toN\bin\Debug\numbersFrom1toN.pdb
+C:\Users\Finch\source\repos\Loops\numbersFrom1toN\obj\Debug\01.numbersFrom1toN.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\Loops\numbersFrom1toN\obj\Debug\numbersFrom1toN.exe
+C:\Users\Finch\source\repos\Loops\numbersFrom1toN\obj\Debug\numbersFrom1toN.pdb

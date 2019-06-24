@@ -1,0 +1,7 @@
+C:\Users\Finch\source\repos\Loops\loops\bin\Debug\loops.exe.config
+C:\Users\Finch\source\repos\Loops\loops\bin\Debug\loops.exe
+C:\Users\Finch\source\repos\Loops\loops\bin\Debug\loops.pdb
+C:\Users\Finch\source\repos\Loops\loops\obj\Debug\loops.csprojAssemblyReference.cache
+C:\Users\Finch\source\repos\Loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\Loops\loops\obj\Debug\loops.exe
+C:\Users\Finch\source\repos\Loops\loops\obj\Debug\loops.pdb

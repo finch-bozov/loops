@@ -1,0 +1,6 @@
+C:\Users\Finch\source\repos\Loops\oddAndEvenProduct\bin\Debug\oddAndEvenProduct.exe.config
+C:\Users\Finch\source\repos\Loops\oddAndEvenProduct\bin\Debug\oddAndEvenProduct.exe
+C:\Users\Finch\source\repos\Loops\oddAndEvenProduct\bin\Debug\oddAndEvenProduct.pdb
+C:\Users\Finch\source\repos\Loops\oddAndEvenProduct\obj\Debug\oddAndEvenProduct.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\Loops\oddAndEvenProduct\obj\Debug\oddAndEvenProduct.exe
+C:\Users\Finch\source\repos\Loops\oddAndEvenProduct\obj\Debug\oddAndEvenProduct.pdb

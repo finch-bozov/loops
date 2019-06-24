@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("deckOfCards")]
+[assembly: AssemblyTitle("numNotDivByThreeAndSeven")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("deckOfCards")]
+[assembly: AssemblyProduct("numNotDivByThreeAndSeven")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,11 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-<<<<<<< HEAD
-[assembly: Guid("6d774f17-21e6-4d2f-8f08-56ef744df404")]
-=======
-[assembly: Guid("d05491cd-4af5-4d9d-ba60-821fd71644a9")]
->>>>>>> Loops commit from home
+[assembly: Guid("466ceb49-f8fd-4e6c-9e6f-d22acfda7f37")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,0 +1,6 @@
+C:\Users\Finch\source\repos\Loops\deckOfCards\bin\Debug\deckOfCards.exe.config
+C:\Users\Finch\source\repos\Loops\deckOfCards\bin\Debug\deckOfCards.exe
+C:\Users\Finch\source\repos\Loops\deckOfCards\bin\Debug\deckOfCards.pdb
+C:\Users\Finch\source\repos\Loops\deckOfCards\obj\Debug\04.deckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\Loops\deckOfCards\obj\Debug\deckOfCards.exe
+C:\Users\Finch\source\repos\Loops\deckOfCards\obj\Debug\deckOfCards.pdb

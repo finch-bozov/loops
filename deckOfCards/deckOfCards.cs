@@ -46,4 +46,8 @@ class Program
             }
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> Loops commit from home
